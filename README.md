@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamveel-khan&label=Profile%20views&color=0e75b6&style=flat" alt="shamveel-khan" /> </p>
 
-- 🔭 I’m currently working on **ASSEMBLY ENDGAME**
+- 🔭 I’m currently working on **ENET+RAYLIB**
 
-- 🌱 I’m currently learning **REACT,RESPONSIVE CSS**
+- 🌱 I’m currently learning **BASIC CYBERSECURITY**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shamveel-Khan?tab=overview&from=2025-02-01&to=2025-02-09](https://github.com/Shamveel-Khan?tab=overview&from=2025-02-01&to=2025-02-09)
 
